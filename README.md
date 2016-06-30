@@ -3,6 +3,8 @@ Weinre - Headstart
 
 WEb INspector REmote
 
+Video of the founder: https://www.youtube.com/watch?v=nntDvl0wzHo
+
 See https://www.npmjs.com/package/weinre
 
 weinre is WEb INspector REmote. Pronounced like the word "winery". Or maybe like the word "weiner". Who knows, really.
