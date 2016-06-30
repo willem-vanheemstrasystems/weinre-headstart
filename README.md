@@ -1,6 +1,14 @@
 # weinre-headstart
 Weinre - Headstart
 
+WEb INspector REmote
+
+See https://www.npmjs.com/package/weinre
+
+weinre is WEb INspector REmote. Pronounced like the word "winery". Or maybe like the word "weiner". Who knows, really.
+
+weinre is a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
+
 Based on:
 
 The Book 'JavaScript Promgramming - Pushing the Limits'
